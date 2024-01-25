@@ -1,7 +1,9 @@
 # React + TypeScript + Vite
 
-# oculus
+# Oculus
 
-Demo landing page for Oculus, a commercial AI website
+# Demo landing page for Oculus, a commercial AI website
 
 # Figma Link = https://www.figma.com/file/Wuj8fagwqNZVKVQQVCgTUf?type=design
+
+# Deployment = https://oculus-sigma.vercel.app

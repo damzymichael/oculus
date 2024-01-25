@@ -8,7 +8,7 @@ function Hero() {
       <h2 className='font-[400] text-4xl font-heading'>
         -<span>S</span>TARBUX X100-
       </h2>
-      <p className='font-body mt-4 text-base sm:text-lg'>
+      <p className='font-body mt-4 text-base sm:text-lg px-3'>
         We are introducing our top twenty highly sophisticated and <br />
         daunting AI of the year 2022
       </p>
