@@ -1,10 +1,10 @@
-import {MutableRefObject, useEffect, useReducer, useRef} from 'react';
+import {useEffect} from 'react';
+// import {useReducer, useRef} from 'react';
 import MovingText from './MovingText';
 
-//! Breakpoint at 1000px 
 //! Add interacitvity for viewing more user's comment
 export default () => {
-  // const divRef = useRef(null);
+  // const divRef = useRef<HTMLDivElement | null>(null);
   // const [moreElements, toggleMoreElements] = useReducer(state => !state, false);
 
   useEffect(() => {
