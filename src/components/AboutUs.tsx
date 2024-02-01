@@ -3,7 +3,7 @@ import robot_1 from '../assets/3d-metal.png';
 
 //! Responsiveness
 
-export default () => {
+const AboutUs = () => {
   return (
     <section className='about-us sm:min-h-[90vh] max-h-[500px] relative overflow-hidden sm:max-h-[400px]'>
       <MovingText className='-top-4 -left-10 -rotate-[12deg]' />
@@ -25,3 +25,5 @@ export default () => {
     </section>
   );
 };
+
+export default AboutUs;

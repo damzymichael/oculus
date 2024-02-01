@@ -6,7 +6,7 @@ import robot_head_blue from './assets/robot-head-blue.png';
 import robot_ai_3d from './assets/robot-ai-3d.png';
 import head_stripe from './assets/head-stripe.png';
 
-interface Robot {
+ interface Robot {
   name: string;
   description: string;
   robotImg: string;
@@ -37,7 +37,7 @@ export const topThreeRobots: Robot[] = [
   }
 ];
 
-interface Variation {
+export interface Variation {
   name: string;
   image: string;
 }
